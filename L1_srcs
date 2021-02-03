@@ -1,4 +1,4 @@
 {
-	"launchpad": "huanga@git.launchpad.net/dsosd+ditto",
-	"pagure": "git@pagure.io/ditto"
+	"launchpad": "ssh://huanga@git.launchpad.net/dsosd+ditto",
+	"pagure": "ssh://git@pagure.io/ditto"
 }
