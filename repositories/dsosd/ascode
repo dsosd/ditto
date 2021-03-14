@@ -1,5 +1,6 @@
 {
   "uuid": "ee8539ba_b7f47260_89644c24_d97662d4",
   "owner": "ditto",
-  "canonical_name": "ascode"
+  "canonical_name": "ascode",
+  "bootstrap_pull_url": "https://github.com/dsosd/ascode"
 }

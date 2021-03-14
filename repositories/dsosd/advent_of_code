@@ -1,5 +1,6 @@
 {
   "uuid": "65b9f5f3_ca6422e2_6c057479_e2b20d52",
   "owner": "dsosd",
-  "canonical_name": "advent_of_code"
+  "canonical_name": "advent_of_code",
+  "bootstrap_pull_url": "https://github.com/dsosd/advent_of_code"
 }

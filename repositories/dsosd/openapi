@@ -1,5 +1,6 @@
 {
   "uuid": "da31989c_6536f061_52233af0_8212a552",
   "owner": "dsosd",
-  "canonical_name": "openapi"
+  "canonical_name": "openapi",
+  "bootstrap_pull_url": "https://github.com/dsosd/openapi"
 }

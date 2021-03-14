@@ -1,5 +1,6 @@
 {
   "uuid": "c71e98eb_71e69164_3aa6bbba_e8b01d92",
   "owner": "dsosd",
-  "canonical_name": "circode"
+  "canonical_name": "circode",
+  "bootstrap_pull_url": "https://github.com/dsosd/circode"
 }

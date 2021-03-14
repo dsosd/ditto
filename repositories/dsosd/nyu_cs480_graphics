@@ -1,5 +1,6 @@
 {
   "uuid": "7ea2d663_439c9047_a0a067df_614ed629",
   "owner": "dsosd",
-  "canonical_name": "nyu_cs480_graphics"
+  "canonical_name": "nyu_cs480_graphics",
+  "bootstrap_pull_url": "https://github.com/dsosd/nyu_cs480_graphics"
 }

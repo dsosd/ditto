@@ -1,5 +1,6 @@
 {
   "uuid": "7807084e_647b0fe3_58e76d9d_f6f8b772",
   "owner": "dsosd",
-  "canonical_name": "sap"
+  "canonical_name": "sap",
+  "bootstrap_pull_url": "https://github.com/dsosd/sap"
 }

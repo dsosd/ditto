@@ -1,5 +1,6 @@
 {
   "uuid": "3e0f426f_ae606ad7_69894203_03670393",
   "owner": "dsosd",
-  "canonical_name": "ditto"
+  "canonical_name": "ditto",
+  "bootstrap_pull_url": "https://github.com/dsosd/ditto"
 }

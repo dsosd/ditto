@@ -1,5 +1,6 @@
 {
   "uuid": "598ae0bb_7b1465e5_5d9af1f0_5db96c34",
   "owner": "dsosd",
-  "canonical_name": "aia"
+  "canonical_name": "aia",
+  "bootstrap_pull_url": "https://github.com/dsosd/aia"
 }

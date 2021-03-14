@@ -1,5 +1,6 @@
 {
   "uuid": "bafed341_ac96a7ad_bcbcbc33_8d18ddc4",
   "owner": "dsosd",
-  "canonical_name": "lnt"
+  "canonical_name": "lnt",
+  "bootstrap_pull_url": "https://github.com/dsosd/lnt"
 }

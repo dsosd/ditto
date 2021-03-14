@@ -1,5 +1,6 @@
 {
   "uuid": "3d07d3cb_11816557_157980aa_617e6990",
   "owner": "dsosd",
-  "canonical_name": "cmb"
+  "canonical_name": "cmb",
+  "bootstrap_pull_url": "https://github.com/dsosd/cmb"
 }
