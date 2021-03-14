@@ -27,4 +27,4 @@ else
 	exit 1
 fi
 
-echo "$MAJOR.$MINOR.$PATCH" >.partial_version
+echo -n "$MAJOR.$MINOR.$PATCH" >.partial_version
