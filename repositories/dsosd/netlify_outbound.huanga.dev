@@ -1,5 +1,6 @@
 {
   "uuid": "a64a56e7_e6dea245_0d1e0def_f7a171b3",
   "owner": "dsosd",
-  "canonical_name": "netlify_outbound.huanga.dev"
+  "canonical_name": "netlify_outbound.huanga.dev",
+  "bootstrap_pull_url": "https://github.com/dsosd/netlify_outbound.huanga.dev"
 }
