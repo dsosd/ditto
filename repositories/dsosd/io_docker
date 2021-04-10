@@ -1,0 +1,6 @@
+{
+  "uuid": "5eed9c60_fc4cc22b_dd84450d_34de85a1",
+  "owner": "dsosd",
+  "canonical_name": "io_docker",
+  "bootstrap_pull_url": "https://github.com/dsosd/io_docker"
+}
